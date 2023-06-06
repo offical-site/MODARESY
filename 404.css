@@ -1,0 +1,67 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 657px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 128px;
+  height: 128px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 87px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Amiri Quran";
+  margin: 17px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Amiri Quran";
+  margin: 66px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Amiri Quran";
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Amiri Quran";
+  margin: 9px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 2.5rem;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 22px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 16px;
+  }
+}
